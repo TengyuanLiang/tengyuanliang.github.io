@@ -38,6 +38,12 @@ You can also find me on:
 
 [Weibo](https://www.weibo.com/u/3529785105?is_hot=1).
 
+### Little Trap
+
+Test out this fatastic 404 error page if you would like to:
+
+[Error 404](https://tengyuanliang.github.io/randomstuff).
+
 ### Contact Me
 
 <form
