@@ -58,18 +58,22 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
   action="https://formspree.io/tl13@illinois.edu"
   method="POST"
 >
+
   <label>
     Your Name:
     <input type="text" name="name">
   </label>
+  
   <label>
     Your Email:
     <input type="email" name="_replyto">
   </label>
+  
   <label>
     Message:
     <textarea name="message"></textarea>
   </label>
+  
   <input type="submit" value="Send">
 </form>
 
