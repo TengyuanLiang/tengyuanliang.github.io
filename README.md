@@ -6,6 +6,7 @@ Hello everyone, thank you so much for paying a visit to my homepage!
 
 I am Tengyuan Liang, a senior student majoring in both Economics and Statistics. I am currently a 
 
+<img src="image/IMG_8535.JPG" width="300">
 
 ```markdown
 Syntax highlighted code block
