@@ -24,6 +24,10 @@ Image: Weibo: nikkoW.
 
 [Homework 01](https://tengyuanliang.github.io/STAT%20385/HW01).
 
+[Homework 02](https://tengyuanliang.github.io/STAT%20385/HW02).
+
+[Homework 03](https://tengyuanliang.github.io/STAT%20385/HW03).
+
 ### Topics/Researches/Projects
 
 <a href="https://tengyuanliang.github.io/pdfs/breast_cancer_wisconsin_analysis.pdf" target="_blank">Wisconsin Breast Cancer Study.</a>
