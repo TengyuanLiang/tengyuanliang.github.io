@@ -2,11 +2,13 @@
 
 Hello everyone, thank you so much for paying a visit to my homepage!
 
+<img src="image/IMG_8535.JPG" width="300">
+
 ### Short Biogrophy 
 
 I am Tengyuan Liang, a senior student majoring in both Economics and Statistics. I am currently a 
 
-<img src="image/IMG_8535.JPG" width="300">
+<img src="image/aed388c7b8973216387257ae5c16a410.jpeg" width="300">
 
 ```markdown
 Syntax highlighted code block
