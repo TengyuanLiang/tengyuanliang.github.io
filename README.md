@@ -6,7 +6,7 @@ Hello everyone, I am Tengyuan Liang, thank you so much for paying a visit to my 
 
 ### Short Biogrophy 
 
-I am Tengyuan Liang, a senior student majoring in both economics and statistics in the University of Illinois at Urbana-Champaign. I am currently going through my graduate school application process. The field I want to further my study in is applied economics. My future plan, after earning a Ph.D. perheps, is to take up a public office to better "serve the people". 
+I am Tengyuan Liang, a senior student majoring in both economics and statistics in the University of Illinois at Urbana-Champaign. I am currently going through my graduate school application process. The field I want to further my study in is applied economics. My future plan, after earning a Ph.D.(wish I can), is to take up a public office to better "serve the people". 
 
 I am from Guangxi Province, China, a province sharing its border with Vietnam, of which Nanning is the capital city. 
 
