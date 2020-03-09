@@ -39,7 +39,7 @@ Syntax highlighted code block
 
 <a href="https://tengyuanliang.github.io/pdfs/breast_cancer_wisconsin_analysis.pdf" target="_blank">Wisconsin Breast Cancer Study.</a>
 
-<a href="https://tengyuanliang.github.io/pdfs/Project.pdf" target="_blank">Business Instructional Facility Solar Panel Data Preparation.</a>
+<a href="https://tengyuanliang.github.io/pdfs/Project.pdf" target="_blank">UIUC Business Instructional Facility Solar Panel Data Preparation.</a>
 
 ### More Personal Information
 
