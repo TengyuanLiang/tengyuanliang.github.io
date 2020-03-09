@@ -26,9 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Academia
+### Resume/Curriculum Vitae
 
 <a href="https://tengyuanliang.github.io/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
+
+### Researches/Projects
+
+<a href="https://tengyuanliang.github.io/pdfs/breast_cancer_wisconsin_analysis.pdf" target="_blank">Wisconsin Breast Cancer Study.</a>
 
 ### More Personal Information
 
