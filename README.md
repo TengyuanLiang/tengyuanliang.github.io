@@ -6,8 +6,9 @@ Hello everyone, thank you so much for paying a visit to my homepage!
 
 ### Short Biogrophy 
 
-I am Tengyuan Liang, a senior student majoring in both Economics and Statistics. I am currently a 
+I am Tengyuan Liang, a senior student majoring in both economics and statistics in the University of Illinois at Urbana-Champaign. I am currently going through my graduate school application process. The field I want to further my study in is applied economics. My future plan, after earning a Ph.D. perheps, is to take up a public office to better "serve the people". 
 
+I am from Guangxi Province, China, a province sharing its border with Vietnam, of which Nanning is the capital city. 
 
 Nanning, Guangxi, China.
 
@@ -34,10 +35,6 @@ You can also find me on:
 [Facebook](https://www.facebook.com/profile.php?id=100010405030208).
 
 [Weibo](https://www.weibo.com/u/3529785105?is_hot=1).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TengyuanLiang/tengyuanliang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Me
 
