@@ -34,6 +34,8 @@ Syntax highlighted code block
 
 You can also find me on: 
 
+[Github](https://github.com/TengyuanLiang).
+
 [Linkedin](https://www.linkedin.com/in/tengyuan-liang-60445815a?trk=people-guest_people_search-card).
 
 [Facebook](https://www.facebook.com/profile.php?id=100010405030208).
