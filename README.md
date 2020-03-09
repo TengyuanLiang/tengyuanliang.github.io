@@ -20,6 +20,10 @@ Image: Weibo: nikkoW.
 
 <a href="https://tengyuanliang.github.io/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
 
+### STAT 385 Learning Progress (R Codes Included)
+
+[Homework 01](https://tengyuanliang.github.io/master/STAT%20385/HW01.md).
+
 ### Topics/Researches/Projects
 
 <a href="https://tengyuanliang.github.io/pdfs/breast_cancer_wisconsin_analysis.pdf" target="_blank">Wisconsin Breast Cancer Study.</a>
