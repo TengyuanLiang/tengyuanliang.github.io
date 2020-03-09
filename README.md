@@ -52,6 +52,25 @@ You can also find me on:
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TengyuanLiang/tengyuanliang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact Information
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<form
+  action="https://formspree.io/tl13@illinois.edu"
+  method="POST"
+>
+  <label>
+    Your Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Your Email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <input type="submit" value="Send">
+</form>
+
+
