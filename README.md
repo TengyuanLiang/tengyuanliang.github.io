@@ -33,6 +33,9 @@ Syntax highlighted code block
 You can also find me on: 
 
 [Linkedin](https://www.linkedin.com/in/tengyuan-liang-60445815a?trk=people-guest_people_search-card).
+
+[Facebook](https://www.facebook.com/profile.php?id=100010405030208).
+
 [Weibo](https://www.weibo.com/u/3529785105?is_hot=1).
 
 ### Jekyll Themes
