@@ -13,24 +13,6 @@ Nanning, Guangxi, China.
 
 <img src="image/aed388c7b8973216387257ae5c16a410.jpeg" width="700">
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 ### Resume/Curriculum Vitae
 
 <a href="https://tengyuanliang.github.io/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
