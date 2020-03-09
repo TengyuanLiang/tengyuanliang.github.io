@@ -26,7 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### More Personal Information
+
+[CV](
+
+You can also find me on: 
+
+[Linkedin](https://www.linkedin.com/in/tengyuan-liang-60445815a?trk=people-guest_people_search-card).
+[Weibo](https://www.weibo.com/u/3529785105?is_hot=1).
 
 ### Jekyll Themes
 
