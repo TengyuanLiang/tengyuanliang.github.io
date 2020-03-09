@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 ### Academia
 
-[CV] <a href="tengyuanliang.github.io/blob/master/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
+<a href="tengyuanliang.github.io/blob/master/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
 
 ### More Personal Information
 
