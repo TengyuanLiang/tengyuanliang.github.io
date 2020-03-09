@@ -22,7 +22,7 @@ Image: Weibo: nikkoW.
 
 ### STAT 385 Learning Progress (R Codes Included)
 
-[Homework 01](https://tengyuanliang.github.io/STAT%20385/HW01.md).
+[Homework 01](https://tengyuanliang.github.io/STAT%20385/HW01).
 
 ### Topics/Researches/Projects
 
