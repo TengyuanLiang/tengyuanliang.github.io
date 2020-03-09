@@ -20,6 +20,8 @@ Image: Weibo: nikkoW.
 
 <a href="https://tengyuanliang.github.io/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
 
+## Blogs/Posts
+
 ### STAT 385 Learning Progress (R Codes Included)
 
 [Homework 01](https://tengyuanliang.github.io/STAT%20385/HW01).
@@ -34,7 +36,9 @@ Image: Weibo: nikkoW.
 
 <a href="https://tengyuanliang.github.io/pdfs/Project.pdf" target="_blank">UIUC Business Instructional Facility Solar Panel Data Preparation.</a>
 
-### More Personal Information
+## Others
+
+### Personal Information
 
 You can also find me on: 
 
