@@ -1,0 +1,128 @@
+---
+layout: page
+title: "Homework 02"
+permalink: /STAT 385/HW02.html
+---
+
+The second homework, compared to the first one, required far more techniques in establishing new functions. The gambling problem is somewhat intriguing to work on. 
+Considering that I do not have that much spare money to gamble, the coloring technique in the graphing section seems more practically useful for me.
+
+```markdown
+
+# First Name: Tengyuan
+# Last Name: Liang
+# NetID: tl13
+# Homework 2
+
+###
+
+## Exercise 1
+
+## (a) read the data
+
+wheel = read.csv('https://nkha149.github.io/stat385-sp2020/files/data/roulette.csv')
+
+wheel
+
+## (b) function roulette()
+
+roulette = function(bet, amount = 1){
+  num = wheel[sample(1:37, 1), 1]
+  color = wheel[num + 1, 2]
+  amount_gained = paste('$', -amount)
+  if(bet == num){amount_gained = paste('$', amount * 36)} else if
+  (bet == "low"){if(num >= 0 & num <= 18){amount_gained = paste('$',amount)}} else if
+  (bet == "high"){if(num >= 19 & num <= 36){amount_gained = paste('$', amount)}} else if
+  (bet == "red"){if(color == "red"){amount_gained = paste('$', amount)}} else if
+  (bet == "black"){if(color == "black"){amount_gained = paste('$', amount)}} else if
+  (bet == "odd"){if(num %% 2 != 0){amount_gained = paste('$', amount)}} else if
+  (bet == "even"){if(num %% 2 == 0){amount_gained = paste('$', amount)}} else if
+  (bet == "first"){if(num >= 1 & num <= 12){amount_gained = paste('$', amount * 2)}} else if
+  (bet == "second"){if(num >= 13 & num <= 24){amount_gained = paste('$', amount * 2)}} else if
+  (bet == "third"){if(num >= 25 & num <= 36){amount_gained = paste('$', amount * 2)}}
+  amount_gained
+  }
+
+set.seed(385)
+roulette(bet = "red", amount = 10)
+
+set.seed(385)
+roulette(bet = "first", amount = 15)
+
+set.seed(385)
+roulette(bet = "odd", amount = 20)
+
+set.seed(385)
+roulette(bet = 9, amount = 10)
+
+set.seed(385)
+roulette(bet = 5)
+
+###
+
+## Exercise 2
+
+roulette2 = function(bet, amount = 1){
+  num = wheel[sample(1:37, 1), 1]
+  color = wheel[num + 1, 2]
+  amount_gained = -amount
+  if(bet == num){amount_gained = amount * 36} else if
+  (bet == "low"){if(num >= 0 & num <= 18){amount_gained = amount}} else if
+  (bet == "high"){if(num >= 19 & num <= 36){amount_gained = amount}} else if
+  (bet == "red"){if(color == "red"){amount_gained = amount}} else if
+  (bet == "black"){if(color == "black"){amount_gained = amount}} else if
+  (bet == "odd"){if(num %% 2 != 0){amount_gained = amount}} else if
+  (bet == "even"){if(num %% 2 == 0){amount_gained = amount}} else if
+  (bet == "first"){if(num >= 1 & num <= 12){amount_gained = amount * 2}} else if
+  (bet == "second"){if(num >= 13 & num <= 24){amount_gained = amount * 2}} else if
+  (bet == "third"){if(num >= 25 & num <= 36){amount_gained = amount * 2}}
+  amount_gained
+}
+
+set.seed(385)
+roulette2(bet = "red", amount = 10)
+
+set.seed(385)
+roulette2(bet = "first", amount = 15)
+
+set.seed(385)
+roulette2(bet = "odd", amount = 20)
+
+set.seed(385)
+roulette2(bet = 9, amount = 10)
+
+set.seed(385)
+roulette2(bet = 5)
+
+## (b)
+
+set.seed(385)
+win_rate = mean(replicate(roulette2(bet = "red"), n = 5000) >= 0)
+
+## (c)
+
+set.seed(385)
+win_rate1 = mean(replicate(roulette2(bet = "first"), n = 5000) >= 0)
+
+## (d)
+
+set.seed(385)
+win_money = mean(replicate(roulette2(bet = "odd", amount = 5), n = 7500))
+
+###
+
+## Exercise 3
+
+## (a)
+
+hist(iris$Sepal.Length, breaks = 30, xlab = "Sepal Length", main = "Histogram for Sepal Length", border = "blue")
+
+## (b)
+
+plot(Sepal.Width ~ Sepal.Length, data = iris, main = "Sepal Length vs. Sepal Width", xlab = "Sepal Length", ylab = "Sepal Width", col = "darkorange", pch = 20)
+
+## (c)
+
+plot(Sepal.Width ~ Sepal.Length, data = iris, main = "Sepal Length vs. Sepal Width", xlab = "Sepal Length", ylab = "Sepal Width", col = c("green", "red", "blue")[iris$Species], pch = 20)
+
+```
