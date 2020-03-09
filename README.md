@@ -1,6 +1,6 @@
 ## Welcome to My Homepage
 
-Hello everyone, thank you so much for paying a visit to my homepage!
+Hello everyone, I am Tengyuan Liang, thank you so much for paying a visit to my homepage!
 
 <img src="image/IMG_8535.JPG" width="300">
 
