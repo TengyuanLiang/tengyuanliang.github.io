@@ -12,6 +12,8 @@ I am from Guangxi Province, China, a province sharing its border with Vietnam, o
 
 Nanning, Guangxi, China.
 
+Image: Weibo: nikkoW.
+
 <img src="image/IMG_5675.JPG" width="2000">
 
 ### Resume/Curriculum Vitae
