@@ -61,12 +61,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
   <label>
     Your Name:
-    <input type="text" name="name">
+    <input type="text" name="Name">
   </label>
   
   <label>
     Your Email:
-    <input type="email" name="_replyto">
+    <input type="email" name="Email">
   </label>
   
   <label>
