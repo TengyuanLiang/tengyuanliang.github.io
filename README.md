@@ -6,7 +6,7 @@ Hello everyone, thank you so much for paying a visit to my homepage!
 
 I am Tengyuan Liang, a senior student majoring in both Economics and Statistics. I am currently a 
 
-![IMG_8535](https://user-images.githubusercontent.com/61600946/76177377-083bc900-6182-11ea-95d8-5796e47a3d0c.JPG)
+![IMG_8535](https://user-images.githubusercontent.com/61600946/76177377-083bc900-6182-11ea-95d8-5796e47a3d0c.)
 
 ```markdown
 Syntax highlighted code block
