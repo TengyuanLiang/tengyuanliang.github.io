@@ -8,6 +8,9 @@ Hello everyone, thank you so much for paying a visit to my homepage!
 
 I am Tengyuan Liang, a senior student majoring in both Economics and Statistics. I am currently a 
 
+
+Nanning, Guangxi, China.
+
 <img src="image/aed388c7b8973216387257ae5c16a410.jpeg" width="700">
 
 ```markdown
