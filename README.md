@@ -26,9 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### More Personal Information
+### Academia
 
-[CV](
+[CV] <a href="tengyuanliang.github.io/blob/master/pdfs/Personal%20CV.pdf" target="_blank">CV.</a>
+
+### More Personal Information
 
 You can also find me on: 
 
