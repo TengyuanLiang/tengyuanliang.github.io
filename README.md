@@ -40,7 +40,7 @@ You can also find me on:
 
 ### Little Trap
 
-Test out this fatastic error 404 page if you would like to:
+Test out this fantastic error 404 page if you would like to:
 
 [Error 404](https://tengyuanliang.github.io/randomstuff).
 
