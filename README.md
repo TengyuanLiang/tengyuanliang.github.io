@@ -12,7 +12,7 @@ I am from Guangxi Province, China, a province sharing its border with Vietnam, o
 
 Nanning, Guangxi, China.
 
-<img src="image/aed388c7b8973216387257ae5c16a410.jpeg" width="700">
+<img src="image/IMG_5675.JPG" width="2000">
 
 ### Resume/Curriculum Vitae
 
