@@ -24,11 +24,13 @@ Image: Weibo: nikkoW.
 
 ### STAT 385 Learning Progress (R Codes Included)
 
-[Homework 01](https://tengyuanliang.github.io/STAT%20385/HW01).
+[Homework 01 Codes](https://tengyuanliang.github.io/STAT%20385/HW01).
 
-[Homework 02](https://tengyuanliang.github.io/STAT%20385/HW02).
+[Homework 02 Codes](https://tengyuanliang.github.io/STAT%20385/HW02).
 
-[Homework 03](https://tengyuanliang.github.io/STAT%20385/HW03).
+[Homework 03 Codes](https://tengyuanliang.github.io/STAT%20385/HW03).
+
+[Homework 03 Example Output](https://tengyuanliang.github.io/STAT%20385/HW03-Output).
 
 ### Topics/Researches/Projects
 
