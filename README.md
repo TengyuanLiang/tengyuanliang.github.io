@@ -26,7 +26,11 @@ Image: Weibo: nikkoW.
 
 [Homework 01 Codes](https://tengyuanliang.github.io/STAT%20385/HW01).
 
+[Homework 01 Example Output](https://tengyuanliang.github.io/STAT%20385/HW01-Output).
+
 [Homework 02 Codes](https://tengyuanliang.github.io/STAT%20385/HW02).
+
+[Homework 02 Example Output](https://tengyuanliang.github.io/STAT%20385/HW02-Output).
 
 [Homework 03 Codes](https://tengyuanliang.github.io/STAT%20385/HW03).
 
